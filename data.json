@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "name": "Nguyen Van Vuong",
+      "email": "nguyen.van.vuong@sun-asterisk.com",
+      "gender": "male",
+      "phone": "0472238443",
+      "password": "123456",
+      "location": {
+          "latitude": 20.995943,
+          "longitude": 105.757715
+      },
+      "deviceToken": "",
+      "free": 1
+    },
+    {
+      "name": "Pham Quang Thanh",
+      "email": "pham.quang.thanh@sun-asterisk.com",
+      "gender": "male",
+      "phone": "04734538443",
+      "password": "123456",
+      "location": {
+          "latitude": 21.016874,
+          "longitude": 105.783975
+      },
+      "deviceToken": "",
+      "free": 1
+    },
+    {
+      "name": "Dong Thi Hien",
+      "email": "dong.thi.hien@sun-asterisk.com",
+      "gender": "female",
+      "phone": "0473438443",
+      "password": "123456",
+      "location": {
+        "latitude": 21.017015,
+        "longitude": 105.780241
+      },
+      "deviceToken": "",
+      "free": 1
+    },
+    {
+      "name": "Chu Minh Khai",
+      "email": "chu.minh.khai@sun-asterisk.com",
+      "gender": "male",
+      "phone": "0472256443",
+      "password": "123456",
+      "location": {
+        "latitude": 21.015169,
+        "longitude": 105.786979
+      },
+      "deviceToken": "",
+      "free": 1
+    },
+    {
+      "name": "Vu Duc Chinh",
+      "email": "vu.duc.chinh@sun-asterisk.com",
+      "gender": "male",
+      "phone": "0472238443",
+      "password": "123456",
+      "location": {
+        "latitude": 21.015550,
+        "longitude": 105.782497
+      },
+      "deviceToken": "",
+      "free": 1
+    }
+  ]
+}
